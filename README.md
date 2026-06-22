@@ -89,8 +89,8 @@
 |----------|--------|
 | **ML & AI** | Predictive Modeling, Feature Engineering, Neural Networks, Ensemble Methods, Classification & Regression |
 | **Data Skills** | Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, Data Visualization |
-| **Programming** | Python, SQL, Object-Oriented Programming |
-| **Backend Dev** | REST APIs, FastAPI, Flask, Database Design, Authentication Systems |
+| **Programming** | Python, SQL |
+| **Backend Dev** | REST APIs, FastAPI |
 | **Frontend Dev** | React, HTML5, CSS3, JavaScript ES6+, Responsive Design |
 | **Cloud & DevOps** | AWS (EC2, S3, Lambda), Git, CI/CD Pipelines |
 | **Tools & Platforms** | Jupyter Notebook, VS Code, GitHub, Power BI, Tableau, MySQL Workbench |
@@ -114,15 +114,6 @@
 - NBKR Institute of science and Technogy, Vidyanagar
 - CGPA: 7.00/10
 - Graduation: 2025
-
----
-
-## 💼 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohith-reddy-gayam)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohith008-cloud)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lohithreddy.gayam@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://github.com/lohith008-cloud)
 
 ---
 
