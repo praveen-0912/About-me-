@@ -59,13 +59,13 @@
 ---
 
 ## 📈 Featured Projects
+# 🎥 YouTube Podcast AI — RAG-Based Question Answering System
 
-### 🔐 Insurance Fraud Detection ML System
-**Technologies:** Python, Scikit-Learn, Pandas, NumPy, Flask, MySQL
-- **Impact:** Achieved 94.2% accuracy in fraud detection using ensemble ML models
-- **Features:** Predictive modeling with Random Forest & XGBoost, data preprocessing & feature engineering, REST API backend
-- **Skills:** Machine Learning, Data Analysis, Backend Development, Model Deployment
-- [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohith008-cloud/Insurance-Fraud-Detection-ML)
+Technologies: Python, Streamlit, Google Gemini, YouTube Transcript API, NumPy, RAG
+
+Impact: Developed an AI-powered system that processes YouTube podcast transcripts and generates context-aware answers using Retrieval-Augmented Generation.
+Features: YouTube transcript extraction, text chunking, Gemini embeddings, NumPy vector storage, cosine similarity search, relevant chunk retrieval, and Gemini-based answer generation.
+Skills: Generative AI, RAG, LLMs, Embeddings, Vector Search, Semantic Search, Prompt Engineering, AI Application Development.
 
 ### 🐄 Dairy Farm Management System
 **Technologies:** FastAPI, React, MySQL, Docker, AWS EC2
