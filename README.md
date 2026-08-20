@@ -75,7 +75,7 @@ Technologies: Python, Streamlit, Google Gemini, LangChain, OpenWeatherMap API, R
 Impact: Developed an AI-powered conversational weather assistant that provides real-time, context-aware weather information using Google Gemini and LangChain.
 Features: Natural-language query processing, real-time weather data retrieval, API integration, temperature and humidity analysis, weather condition reporting, and conversational responses.
 Skills: Generative AI, LLMs, LangChain, AI Agents, Tool Calling, Prompt Engineering, REST API Integration, Streamlit, Python.
-- [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)][(https://github.com/lohith008-cloud/Dairy-Farm-Management-System)](https://github.com/praveen-0912/Chat_bot.git)
+- [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveen-0912/Chat_bot.git)
 
 ### 📊 Superbike Business Intelligence KPI Dashboard
 **Technologies:** Power BI, SQL, Excel, Data Warehousing
