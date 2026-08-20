@@ -66,13 +66,15 @@ Technologies: Python, Streamlit, Google Gemini, YouTube Transcript API, NumPy, R
 Impact: Developed an AI-powered system that processes YouTube podcast transcripts and generates context-aware answers using Retrieval-Augmented Generation.
 Features: YouTube transcript extraction, text chunking, Gemini embeddings, NumPy vector storage, cosine similarity search, relevant chunk retrieval, and Gemini-based answer generation.
 Skills: Generative AI, RAG, LLMs, Embeddings, Vector Search, Semantic Search, Prompt Engineering, AI Application Development.
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveen-0912/Youtube_Prodcast.git)
+-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveen-0912/Youtube_Prodcast.git)
 
-### 🐄 Dairy Farm Management System
-**Technologies:** FastAPI, React, MySQL, Docker, AWS EC2
-- **Impact:** Reduced manual data entry by 85% through automation; real-time inventory tracking for 200+ dairy products
-- **Features:** Full-stack web application with secure session-based authentication, role-based access control, production dashboard
-- **Skills:** Full-Stack Development, Database Design, Cloud Deployment, API Development
+## 🌤️ Intelligent Weather Assistant Using Gemini and LangChain
+
+Technologies: Python, Streamlit, Google Gemini, LangChain, OpenWeatherMap API, REST API
+
+Impact: Developed an AI-powered conversational weather assistant that provides real-time, context-aware weather information using Google Gemini and LangChain.
+Features: Natural-language query processing, real-time weather data retrieval, API integration, temperature and humidity analysis, weather condition reporting, and conversational responses.
+Skills: Generative AI, LLMs, LangChain, AI Agents, Tool Calling, Prompt Engineering, REST API Integration, Streamlit, Python.
 - [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohith008-cloud/Dairy-Farm-Management-System)
 
 ### 📊 Superbike Business Intelligence KPI Dashboard
