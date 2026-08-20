@@ -77,13 +77,6 @@ Features: Natural-language query processing, real-time weather data retrieval, A
 Skills: Generative AI, LLMs, LangChain, AI Agents, Tool Calling, Prompt Engineering, REST API Integration, Streamlit, Python.
 - [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveen-0912/Chat_bot.git)
 
-### 📊 Superbike Business Intelligence KPI Dashboard
-**Technologies:** Power BI, SQL, Excel, Data Warehousing
-- **Impact:** 40% improvement in decision-making speed through real-time KPI visualization
-- **Features:** Multi-dimensional analysis with drill-down capabilities, interactive dashboards monitoring 15+ KPIs, DAX calculations for trend analysis
-- **Skills:** Business Intelligence, Data Visualization, SQL Analytics, Stakeholder Reporting
-- [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohith008-cloud/Superbike-Business-Intelligence-KPI-Dashboard)
-
 ---
 
 ## 🎯 Core Competencies
