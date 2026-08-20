@@ -66,7 +66,7 @@ Technologies: Python, Streamlit, Google Gemini, YouTube Transcript API, NumPy, R
 Impact: Developed an AI-powered system that processes YouTube podcast transcripts and generates context-aware answers using Retrieval-Augmented Generation.
 Features: YouTube transcript extraction, text chunking, Gemini embeddings, NumPy vector storage, cosine similarity search, relevant chunk retrieval, and Gemini-based answer generation.
 Skills: Generative AI, RAG, LLMs, Embeddings, Vector Search, Semantic Search, Prompt Engineering, AI Application Development.
--[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveen-0912/Youtube_Prodcast.git)
+- [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveen-0912/Youtube_Prodcast.git)
 
 ## 🌤️ Intelligent Weather Assistant Using Gemini and LangChain
 
